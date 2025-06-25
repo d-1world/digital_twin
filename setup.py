@@ -20,6 +20,14 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            # juntae
+            
+            # wsh
+            'gui = digital_twin.gui:main',
+            
+            # ye
+            
+            # yohan
         ],
     },
 )
